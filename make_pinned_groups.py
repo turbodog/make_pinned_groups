@@ -77,8 +77,4 @@ for group in range(num_groups):
 	f.write(curl_command)
 	f.close
 	
-	print curl_command
-
-
-
-# print command
+#	print curl_command
